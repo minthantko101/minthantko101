@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: minthantko101@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: /*Life is not fun...ee hee hee*/
 
 <!--
