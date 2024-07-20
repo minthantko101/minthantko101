@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: minthantko101@gmail.com
-- ⚡ Fun fact: /*Life is not fun...ee hee hee*/
+- ⚡ Fun fact: huh?
 
 <!--
 **minthantko17/minthantko17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
